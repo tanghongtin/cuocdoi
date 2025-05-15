@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sự khởi đầu
+title: Sự khởi đầu cho một hành trình mới
 ---
 
 {{ page.title }}
