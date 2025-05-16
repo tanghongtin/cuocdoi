@@ -5,6 +5,7 @@ title: Sự khởi đầu cho một hành trình mới
 
 {{ page.title }}
 ================
+<p class="meta">{{ page.date | date: "%d/%m/%Y" }} - Xuyên Mộc, BRVT</p>
 
 
 Một ngày như bao ngày. Tôi thức dậy vào lúc trời đã bắt đầu ló dạng. Trước đó mấy hôm, tôi đã học về AI khá nhiều, nên hôm nay tự nhiên tôi có thôi thúc muốn dùng AI để tìm hiểu về Law of Vibration. Nghĩ thế, tôi liền bật máy tính, mở ChatGPT rồi gõ cách học.
