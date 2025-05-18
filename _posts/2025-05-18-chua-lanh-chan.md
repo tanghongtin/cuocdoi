@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lời cảm ơn
+title: Chữa lành chân (phần 1)
 ---
 
 {{ page.title }}
