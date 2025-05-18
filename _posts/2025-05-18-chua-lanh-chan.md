@@ -17,7 +17,7 @@ Tôi cũng có thử tự chữa trị cho mình bằng kiến thức Đông y �
 
 	Tôi sẽ ưu tiên chữa triệu chứng ngứa đầu tiên.
 
-> Để chữa được, điều đầu tiên của tôi là xác định nguyên nhân bệnh. Tại sao tôi bị bệnh? Bệnh từ đâu ra?
+Để chữa được, điều đầu tiên của tôi là xác định nguyên nhân bệnh. Tại sao tôi bị bệnh? Bệnh từ đâu ra?
 
 ***
 Mình được đưa vào một cảnh như trong không khí ở trên cao, nơi đây có những con vật bay trong mây. Bằng cách nào đó, nó đi thẳng theo cột năng lượng trời vào trong người của tôi. Nó vào đường máu và di chuyển theo máu trong cơ thể. Trên cơ thể tôi, có những trung tâm từ tính hút những con này, làm chúng bị dính lại trong thành mạch máu. Chúng cứ ngoe nguẩy chân nhưng không thể bò đi tiếp được. Trông con này giống như con chí trên tóc. 
