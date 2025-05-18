@@ -7,7 +7,7 @@ title: Điều quan trọng nhất
 ================
 <p class="meta">{{ page.date | date: "%d/%m/%Y" }} - Xuyên Mộc, BRVT</p>
 
-Thỉnh thoảng tôi thường tự hỏi mình: Điều gì là quan trọng nhất trong cuộc đời của một con người?
+Thỉnh thoảng tôi thường tự hỏi mình: **Điều gì là quan trọng nhất trong cuộc đời của một con người**?
 
 Đó có phải là số tiền người đó kiếm được, hay là người đó đạt được vị thế nào trong xã hội, hay sức khỏe người đó có bao nhiêu, hay người đó sống hạnh phúc hay không, hay người đó đi du lịch được bao nhiêu nước?
 
