@@ -15,4 +15,4 @@ Câu hỏi đặt ra là người xưa làm thế nào lại có những kiến 
 
 Hiện nay, khi người ta có ý định đào giếng khoan, người ta thường thuê những nhà ngoại cảm để dò tìm mạch nước ngầm, ở nước ngoài thì phương pháp này được biết với tên gọi DOWSING. 
 
-> Người xưa và người nay có lẽ không phát minh ra thứ gì mới mẻ cả vì mọi kiến thức đều đã có sẵn trong kho tàng kiến thức vũ trụ rồi. Vũ trụ kiến thức này là bao la và vô cùng tận. Khi con người biết cách cảm nhận tim và kết nối với nội tâm trong sáng của mình, kiến thức sẽ tự tới với mỗi người. 
+*Người xưa và người nay có lẽ không phát minh ra thứ gì mới mẻ cả vì mọi kiến thức đều đã có sẵn trong kho tàng kiến thức vũ trụ rồi. Vũ trụ kiến thức này là bao la và vô cùng tận. Khi con người biết cách cảm nhận tim và kết nối với nội tâm trong sáng của mình, kiến thức sẽ tự tới với mỗi người.*
