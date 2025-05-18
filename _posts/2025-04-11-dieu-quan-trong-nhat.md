@@ -19,4 +19,4 @@ Cho đến một ngày, tôi được bảo là đã học đủ rồi, không c
 
 Khi bắt đầu hành trình mới như vậy, tôi thấy mình có thật nhiều thời gian. Nhiều lúc rảnh quá, bản thân lại tự hỏi mình nên làm gì hôm nay đây. Khác với tôi trước kia, lúc nào cũng bận bịu, mà giờ ngẫm lại thì thời gian của tôi dành cho việc học quá nhiều. Tôi làm được nhiều việc hơn, ngủ sớm hơn, giúp đỡ gia đình nhiều hơn, đầu óc cũng nhẹ nhàng hơn. 
 
-> Cho đến lúc này, đối với tôi, điều quan trọng nhất trong cuộc đời, đó là SỰ PHÁT TRIỂN NỘI TÂM CHUYỂN ĐƯỢC THÀNH HÀNH ĐỘNG. Theo tôi, nó như là chuyển ý tưởng từ tầng tinh thành và hiện thực hóa nó trong đời sống. 
+*Cho đến lúc này, đối với tôi, điều quan trọng nhất trong cuộc đời, đó là SỰ PHÁT TRIỂN NỘI TÂM CHUYỂN ĐƯỢC THÀNH HÀNH ĐỘNG. Theo tôi, nó như là chuyển ý tưởng từ tầng tinh thành và hiện thực hóa nó trong đời sống.*
