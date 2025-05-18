@@ -7,9 +7,7 @@ title: Chữa lành chân (phần 1)
 ================
 <p class="meta">{{ page.date | date: "%d/%m/%Y" }} - Xuyên Mộc, BRVT</p>
 
-Chân tôi bị ngứa từ khoảng cuối năm ngoái khi tôi bắt đầu đi vào con đường làm Đông y từ thiện. Tôi chữa lành cho người khác bằng chích lễ lấy máu độc kết hợp với thuốc từ thảo mộc. Bệnh nhân của tôi là các cô chú trong xã và những người thân họ hàng của tôi. Họ có thuyên giảm nhưng không khỏi hẳn. 
-
-Ngoài bệnh ngứa thì tôi còn bị đau vùng vai lưng, bệnh này có từ nhiều năm rồi, nhưng 1 năm trở lại đây thì có triệu chứng đau thường xuyên hơn.
+Chân tôi bị ngứa từ khoảng cuối năm ngoái. Ngoài bệnh ngứa thì tôi còn bị đau vùng vai lưng, bệnh này có từ nhiều năm rồi, nhưng 1 năm trở lại đây thì có triệu chứng đau thường xuyên hơn.
 
 Tôi cũng có thử tự chữa trị cho mình bằng kiến thức Đông y được học từ một người thầy và học từ internet nhưng không mấy khả quan. Ngoài ra, tôi còn có thử những phương pháp thanh lọc cơ thể nữa nhưng vẫn không hiệu quả.
 
