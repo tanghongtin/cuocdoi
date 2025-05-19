@@ -29,5 +29,5 @@ Rồi tôi đào thêm ao trong vườn để có nước cung cấp cho khu vư
 
 Rồi những cơn mưa đến. Tôi trồng cây và gieo hạt.
 
-*Đó là những công việc đầu tiên của tôi với khu vườn*
+*Đó là những công việc đầu tiên của tôi với khu vườn.*
 
