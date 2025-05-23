@@ -15,4 +15,4 @@ Món quà có thể đến với rất nhiều hình dáng, kiểu cách. Ngư�
 
 Món quà bất ngờ là phần thưởng cho bản thân. Hãy tận hưởng món quà mà mình nhận được. 
 
-*Nhưng nhớ, khi quà nhiều quá, lòng tham có thể nổi lên. Hãy đi tiếp con đường phát triển nội tâm thì quà sẽ có liên tục. Còn phát triển lòng tham hoặc hướng ra bên ngoài thì quà sẽ càng ngày càng ít đi.*
+*Nhưng nhớ, khi quà nhiều quá, lòng tham có thể nổi lên. Hãy đi tiếp con đường phát triển nội tâm thì quà sẽ có liên tục. Còn phát triển lòng tham hoặc hướng ra bên ngoài thì quà sẽ càng ngày càng ít đi, rồi sẽ không còn phần thưởng nữa. [Lợi bất cập hại](https://cuocdoi.net/2025/04/16/loi-bat-cap-hai.html) lại diến ra.*
