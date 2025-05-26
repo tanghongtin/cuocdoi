@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lời nhắc nhỏ
+title: Lời nhắc nhở
 ---
 
 {{ page.title }}
