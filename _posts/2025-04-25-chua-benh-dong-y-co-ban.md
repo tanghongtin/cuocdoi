@@ -18,3 +18,5 @@ Tôi vội chạy đi lấy vài nhánh gừng cùng vài tép xả (những v�
 Tôi lại nảy ra 1 ý, là dùng nước nóng lúc nãy nấu nước gừng xả, bỏ trong bình thủy rồi hình hơi vào, như được xông hơi cho phổi. Tôi còn đi dép trong nhà để giữ ấm cho đôi chân của mình. 
 
 Rồi tôi bắt đầu lên giường ngủ một hơi cho tới sáng và chờ đợi kết quả. 
+
+Phải 2 hôm sau, tôi vẫn duy trì thói quen uống nước gừng xả, tắm nước ấm. Cơ thể bắt đầu giảm triệu chứng bệnh dần.
