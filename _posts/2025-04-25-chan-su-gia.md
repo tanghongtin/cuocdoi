@@ -21,4 +21,8 @@ Làm sao tôi biết đâu là CHÂN SƯ THẬT - đâu là CHÂN SƯ GIẢ? Câ
 
 Trong những lần tôi nhận thông tin từ trái tim, cơ thể tôi khá thoải mái. Nhưng có một lần, tôi vẫn nhận thông tin y hệt, nhưng tâm trạng tôi thấy khó chịu, đầu óc cố lý giải để trái tim được yên ổn. Nhưng sự khó chịu này vẫn cứ kéo dài cho đến khi trước lúc viết bài, tôi mới phát hiện ra RUNG ĐỘNG bất thường này chính là thông tin từ CHÂN SƯ GIẢ gửi cho tôi.
 
+Một lần khác, tôi liên tục nghe một câu cứ lặp đi lặp lại trong cả ngày khiến tôi cảm thấy mệt. Đây là kiểu nhồi sọ tư tưởng thường được dùng trong quảng cáo. Ban đầu, tôi tưởng mình được học điều gì đó mới mẻ từ siêu thức. Nhưng sau đó, tôi nhận ra đây chính là bản ngã của mình - bản ngã muốn thể hiện mình xuất chúng, siêu phàm nên tự thu hút chân sư giả đưa thông tin khác thường để tôi cảm thấy mình phi thường. Sau lần nhận thông tin từ CHÂN SƯ GIẢ này, tôi bị bệnh trong ngày hôm đó và kéo dài gần 1 tuần liền. 
+
+Bài học về CHÂN SƯ GIẢ với tôi vẫn đau thương và vẫn là những thử thách lớn đối với tôi. Tôi cần tỉnh táo nhận ra và không bị cuốn vào thông tin cũng như cần buông bớt bản ngã của mình. 
+
 *RUNG ĐỘNG từ vũ trụ, từ CHÂN SƯ THẬT khiến bản thân tôi bình an thì RUNG ĐỘNG từ CHÂN SƯ GIẢ làm tôi khó chịu, bực bội, có gì đó lấn cấn trong cảm xúc của mình.*
