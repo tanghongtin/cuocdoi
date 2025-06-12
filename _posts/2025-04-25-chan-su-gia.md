@@ -11,11 +11,11 @@ Nếu trong cuộc sống có người tốt thì cũng có người xấu. Có 
 
 Cách đây nhiều năm, khi trong nội tâm tôi có vấn đề. Tôi nhận thông tin lúc đấy sai nhiều, tỉ lệ chính xác giảm dần xuống 50% rồi xuống 30%. Thời gian này là thời gian tôi đang tập trung làm các dự án crypto và cũng có kiếm được tiền. Khi thông tin bị nhiễu quá nhiều, tôi quyết định ngưng lại việc nhận thông tin, cắt hoàn toàn thế giới nội tâm và chỉ tập trung vào thế giới vật chất, thế giới bên ngoài. 
 
-Vì một quyết định này, sự phát triển của tôi chậm lại mất nhiều năm. Trong nhiều năm này là khoảng thời gian tôi lao đi học hỏi và kiếm tiền. Công sức, thời gian bỏ ra nhiều, và thứ tôi nhận lại được là cơ thể yếu hơn, nhiều bệnh tật trên người hơn, kiến thức học được hầu như không dùng được mấy. 
+Vì quyết định này, sự phát triển của tôi chậm lại mất nhiều năm. Trong nhiều năm này là khoảng thời gian tôi lao ra bên ngoài học hỏi và kiếm tiền. Công sức, thời gian bỏ ra nhiều, và thứ tôi nhận lại được là cơ thể yếu hơn, nhiều bệnh tật trên người hơn, kiến thức học được hầu như không dùng được mấy. 
 
-Lý do chính cho việc dừng lại của sự phát triển nội tâm của tôi trong những năm trước kia là do tôi không vượt qua được bài học về CHÂN SƯ GIẢ. Khi tìm hiểu về cội nguồn gốc rễ của sự gặp mặt này, tôi nhận ra [lòng tham](https://cuocdoi.net/2025/06/11/long-tham.html) của bản thân là nguồn gốc, chính lòng tham đã che lấp đi cánh cửa [tâm hồn](https://cuocdoi.net/2025/06/10/tam.html), khiến nó không đóng mở được. Và khi gặp CHÂN SƯ GIẢ, tôi không nhận ra được đâu là thông tin thật, đâu là thông tin giả. 
+Lý do chính cho việc dừng lại của sự phát triển nội tâm của tôi trong những năm trước kia là do lòng tham của tôi quá lớn khiến tôi không phân biệt được đâu là thông tin của CHÂN SƯ GIẢ đưa đến, đâu là thông tin từ thế giới nội tâm của chính bản thân mình. Khi tìm hiểu về cội nguồn gốc rễ của sự gặp mặt này, tôi nhận ra [lòng tham](https://cuocdoi.net/2025/06/11/long-tham.html) của bản thân là nguồn gốc, chính lòng tham đã che lấp đi cánh cửa [tâm hồn](https://cuocdoi.net/2025/06/10/tam.html), khiến nó không đóng mở được. Và khi gặp CHÂN SƯ GIẢ, tôi không nhận ra được đâu là thông tin thật, đâu là thông tin giả. 
 
-Bây giờ, khi quay lại phát trường con đường nội tâm, tôi lại gặp lại bài học y hệt. Tôi vẫn gặp lại CHÂN SƯ GIẢ. Và lần này tôi biết mục tiêu mình là gì, và CHÂN SƯ GIẢ xuất hiện như một điều tất yếu. 
+Bây giờ, khi quay lại phát trường con đường nội tâm, tôi lại gặp lại bài học y hệt. Tôi vẫn gặp lại CHÂN SƯ GIẢ, trong tôi vẫn có lòng tham. Và lần này tôi biết mục tiêu mình là gì, và CHÂN SƯ GIẢ xuất hiện như một điều tất yếu. 
 
 Làm sao tôi biết đâu là CHÂN SƯ THẬT - đâu là CHÂN SƯ GIẢ? Câu trả lời là dựa vào RUNG ĐỘNG dưới sự cảm nhận của tâm hồn. 
 
