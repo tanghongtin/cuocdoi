@@ -7,7 +7,7 @@ title: Chân sư giả
 ================
 <p class="meta">{{ page.date | date: "%d/%m/%Y" }} - Xuyên Mộc, BRVT</p>
 
-Nếu trong cuộc sống có người tốt thì cũng có người xấu. Có người muốn giúp đỡ bạn thì cũng sẽ có người sẽ lợi dụng bạn. Có người dạy bạn điều hay thì cũng có người dạy bạn điều không hay. Việc của mỗi người là nhìn ra người thầy của mình và tránh xa những kẻ làm bản thân tệ đi. 
+CHÂN SƯ GIẢ - là những người/tinh thần xung quanh chúng ta. Đó có thể là bạn bè/người thân/người thầy/tinh thần cõi âm/tinh thần cõi cao hơn... rất nhiều hình dạng và trạng thái khác mà ta bắt gặp. Giống như ta có thể gặp rất nhiều người lừa đảo ngoài đời thực, trên mạng, trong giấc mơ, trong lời thì thầm bên tai. CHÂN SƯ GIẢ có nhiều trạng thái, hình dạng khác nhau. Đơn giản họ tự tin với cái bản ngã của mình, muốn dạy kiến thức lệch lạc mà họ có hoặc muốn điều khiển người khác. CHÂN SƯ GIẢ có ở khắp mọi nơi. 
 
 Cách đây nhiều năm, khi trong nội tâm tôi có vấn đề. Tôi nhận thông tin lúc đấy sai nhiều, tỉ lệ chính xác giảm dần xuống 50% rồi xuống 30%. Thời gian này là thời gian tôi đang tập trung làm các dự án crypto và cũng có kiếm được tiền. Khi thông tin bị nhiễu quá nhiều, tôi quyết định ngưng lại việc nhận thông tin, cắt hoàn toàn thế giới nội tâm và chỉ tập trung vào thế giới vật chất, thế giới bên ngoài. 
 
