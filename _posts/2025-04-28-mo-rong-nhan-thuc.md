@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mở rộng nhận thức
+title: Mở rộng nhận thức
 ---
 
 {{ page.title }}
