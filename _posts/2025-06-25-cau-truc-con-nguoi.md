@@ -7,7 +7,7 @@ title: Cấu trúc con người
 ================
 <p class="meta">{{ page.date | date: "%d/%m/%Y" }} - Xuyên Mộc, BRVT</p>
 
-Cấu tạo con người gồm:
+Cấu trúc con người gồm:
 
 - Tâm hồn/Linh hồn/Nội tâm 
 - Nhận thức
