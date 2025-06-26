@@ -11,7 +11,7 @@ Từ xa xưa, khi chưa có ghi chép, con người đã có hiểu biết rất
 
 Câu hỏi đặt ra là người xưa làm thế nào lại có những kiến thức đấy? 
 
-Điển hình như định lý Pythagos, chúng ta được học là do Pythagos sáng lập. Nhưng khi nghiên cứu lịch sử, ta sẽ thấy trước thời của ông, có nhiều người đã biết đến định lý này, các nhà khảo cổ tìm thấy chúng ở Hy Lạp, ở Trung Quốc. Pythagos chỉ là người giúp đưa chân lý này phổ biến với đại chúng mà thôi. 
+Điển hình như định lý Pythagos, chúng ta được học là do Pythagos sáng lập. Nhưng khi nghiên cứu lịch sử, ta sẽ thấy trước thời của ông, có nhiều người đã biết đến định lý này, các nhà khảo cổ tìm thấy chúng ở Hy Lạp, ở Trung Quốc. Pythagos chỉ là người giúp đưa chân lý này phổ biến với đại chúng mà thôi. 
 
 Hiện nay, khi người ta có ý định đào giếng khoan, người ta thường thuê những nhà ngoại cảm để dò tìm mạch nước ngầm, ở nước ngoài thì phương pháp này được biết với tên gọi DOWSING. 
 
