@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trường hình thái.
+title: Trường hình thái
 ---
 
 {{ page.title }}
