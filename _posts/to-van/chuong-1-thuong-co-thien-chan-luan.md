@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chương 1: Thượng cổ thiên chân luận
+title: Chương 1 - Thượng cổ thiên chân luận
 ---
 
 {{ page.title }}
