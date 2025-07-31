@@ -1,0 +1,31 @@
+---
+layout: post
+title: Chương 2: Tứ điều khí thần luận
+---
+
+{{ page.title }}
+================
+<p class="meta">{{ page.date | date: "%d/%m/%Y" }} - Xuyên Mộc, BRVT</p>
+
+Ba tháng mùa xuân gọi là lúc phô bầy cái mới mẻ, Trời đất đều đang lúc sinh, vạn vật được tươi tốt [1]. Con người nên đi ngủ muộn và thức dậy sớm, đi bộ trong sân, xõa tóc với dáng điệu hòa hoãn, tất cả nhằm làm cho cái chí với mình được sinh ra [2]. Chúng ta chỉ nên làm những hành động giúp cho sự sống (sinh)  mà không nên làm những hành động giết chết, nên cho mà không chiếm đoạt, nên thưởng thức mà không nên phạt [3]. Đó là chúng ta ứng với xuân khí, cũng là đạo ‘dưỡng sinh ‘ vậy [4]. Nếu nghịch lại, sẽ làm thương đến Can, đến mùa Hạ sẽ bị bệnh hàn, đó là vì xuân khí không ‘ phụng ‘ đủ khí ‘hạ trưởng ‘ cho mùa hạ [5].
+
+Ba tháng mùa hạ gọi là thì của cây cỏ sum sê, tươi tốt, khí của Trời Đất giao nhau, vạn vật đều được kết trái, con người nên đi ngủ muộn và thức dậy sớm, đừng trễ lười vào những ngày hạ [6]ï. Tất cả nhằm làm cho cái chí của mình đừng ‘nộ’, làm cho anh hoa được chín đẹp [7]. Phải để cho hạ khí trong người thoát bớt ra ngoài, giống như là nó đi chơi ra ngoài một cách thích thú [8]. Đó là chúng ta ứng với hạ khí, cũng là Đạo ‘dưỡng trưởng’ [9]. Nếu nghịch lại sẽ làm thương đến Tâm, sang mùa thu sẽ bị bệnh sốt rét, đó là vì hạ khí không ‘phụng’ đủ khí ‘thu Thu’ cho mùa thu, mùa đông đến sẽ bị trúng bệnh [10].
+
+Ba tháng mùa thu gọi là thời của vạn vật thịnh và hoa trái được chín, khí Trời trôi nhanh, khí Đất sáng suả, Con người nên ngủ sớm và thức sớm, cùng gây hứng với gà [11]ø. Tất cả nhằm làm cho cái chí của mình được an tĩnh, làm cho tránh được khí tiêu sai (sát) của mùa thu [12]. Nên thu liễm Thần khí lại, làm cho chúng ta thích ứng được với khí dung bình của mùa thu, đừng để cho chí của mình thoát ra ngoài, làm cho Phế khí được thanh, đó là chúng ta thích ứng được với thu khí, cũng là Đạo “dưỡng thu” vậy [13]. Nếu nghịch lại sẽ làm thương đến Phế, mùa đông sẽ bị bệnh tiêu chảy, đó là vì thu khí không “phụng” đủ khí “đông tạng” cho mùa đông [14].
+
+Ba tháng mùa đông là thì vạn vật bế tạng, nước đóng băng, đất nứt nẻ, chúng ta không nên làm nhiễu loạn Dương khí,  nên ngủ sớm, dậy muộn, phải đợi có mặt trời rồi mới dậy, tất cả đều làm cho chí của mình như núp như trốn, như có ý riêng tư, như đã có được một cái gì [15]. Chúng ta phải tránh lạnh tìm ấm, đừng để cho Dương khí thoát ra ngoài bì phu, khiến cho chân khí bị hao tổn một cách nhanh chóng, đó là chúng ta thích ứng được với đông khí, cũng là Đạo ‘dưỡng tạng’[16]. Nếu nghịch lại sẽ làm thương đến Thận, đến mùa xuân sẽ bị bệnh ‘nuy quyết’, đó là vì đông khí không “phụng” đủ khí “xuân sinh” cho mùa xuân [17].
+
+Thiên khí trong sạch và sáng sủa [18]. Thiên Đức ẩn tạng và vận hành không ngừng, cho nên không cần phải đi xuống [19]. Nếu Thiên khí (bộc lộ ra) thì mặt trời mặt trăng không còn sáng và do đó mà tà khí len vào làm hại các không khiếu [20]. Nếu Thiên khí bị bế tắc thì Địa khí sẽ mất ánh sáng [21]. Nếu vân và vụ không còn ‘tinh’ thì sẽ làm ảnh hưởng đến bên trên làm cho bạch lộ không giáng xuống được [22]. Nếu sự giao hòa giữa Thiên khí và Địa khí không bộc lộ sáng tỏ thì sức sống của vạn vật không thi hóa được, do đó đa số các danh mộc sẽ bị chết, ác khí sẽ phát dương rộng ra [23]. Gió mưa không trúng tiết, bạch lộ không rơi xuống thì cỏ và lúa sẽ không được tươi tốt [24]. Gió dữ cuộn đến, mưa bạo ào rơi, bốn mùa trong Trời Đất không còn giữ được điều hòa, sẽ làm thất đi cái Đạo Như vậy cuộc sống chưa được nửa đường đã bị tuyệt diệt [25]. Duy chỉ có bậc thánh nhân là theo đúng với Thiên Đạo, vì thế họ giữ được thân mình không bị bệnh lạ, vạn vật không mất đi lẽ sống, sinh khí không bị kiệt [26].
+
+Sống nghịch lại với xuân khí, sẽ làm khí Thiếu dương không sinh, Can khí bị nội biến [27]. Sống nghịch lại với hạ khí, sẽ làm cho khí Thái dương không trưởng, Tâm khí bị nội động [28]. Sống nghịch lại với thu khí thì khí Thái Âm không thu, Phế khí bị tiêu mãn [29]. Sống nghịch lại với đông khí thì khí Thiếu Âm không tạng, Thận khí bị độc trầm [30].
+
+Ôi ! Âm Dương vận hành trong 4 mùa là cái căn (rễ), cái bản (gốc) của vạn vật [31]. Cho nên, bậc thánh nhân đến mùa xuân và mùa hạ thì dưỡng Dương, đến mùa thu và mùa đông thì dưỡng Âm, đó là để theo đúng với cái căn và cũng để cùng với vạn vật chìm nổi theo cánh cửa của việc sống chết [32].
+
+Nếu sống nghịch lại với cái căn, đó là chặt đứt cái “bản”, là hủy hoại cái “chân” vậy [33].
+
+Cho nên, Âm Dương vận hành trong 4 mùa là nơi chung thỉ của vạn vật, là cái gốc của việc sống chết [34]. Sống nghịch lại với Âm Dương thì tai và hại sẽ sinh ra, sống thuận theo với Âm Dương thì những tật bệnh nặng không thể xẩy, đó gọi là ‘đắc Đạo’ [35].
+
+Đạo là con đường mà thánh nhân đi theo, kẻ ngu thì làm nghịch lại [36]. Theo đúng với Âm Dương thì sống, nghịch lại thì chết, theo đúng với Âm Dương thì trị (yên), nghịch lại thì loạn [37]. Xoay ngược cái thuận thành cái nghịch, gọi là ‘nội cách’ [38].
+
+Cho nên, bậc thánh nhân không “trị : để ý, nghiên cứu” cái đã bệnh mà lo “trị” cái chưa bệnh, không “trị” cái đã loạn mà lo “trị” cái chưa loạn, đúng với ý nghĩa trên đã nói [39]. Ôi ! Đợi khi bệnh đã thành rồi mới dùng thuốc, đợi khi loạn đã thành rồi mới trị loạn, cũng ví như đợi khát (nước) rồi mới đào giếng, đợi lúc đánh nhau rồi mới đúc binh khí, như vậy, cũng chẳng là muộn lắm sao? [40].
+
