@@ -17,19 +17,6 @@ title: Cuộc Đời (Chấm) Nét
     <li><span>26/06/2025</span> &raquo; <a href="https://www.youtube.com/watch?v=aXuTt7c3Jkg">Video: Thế giới bên trong Thế giới bên ngoài - Phần 1,2,3...</a></li>
   </ul>
 
-  # Tố vấn
-  <ul>
-    {% assign folders = site.posts | map: 'path' | map: 'split' | map: last | uniq %}
-    {% for post in site.posts %}
-      {% assign dir = post.path | split: '/' | slice: 1, 1 | first %}
-      {% unless dir == '_posts' or dir == post.path %}
-        <li>
-          <a href="/{{ dir }}/">{{ dir }}</a>
-        </li>
-      {% endunless %}
-    {% endfor %}
-  </ul>
-
   <h1>Bạn bè</h1>
   <ul class="posts">
     <li><a href="https://omihuong.net/">omihuong.net</a> - Blog các bài thiền và phần cảm nhận về tất cả mọi thứ trong cuộc sống.</li>
