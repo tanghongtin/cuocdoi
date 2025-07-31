@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chương 2: Tứ điều khí thần luận
+title: Chương 2 - Tứ điều khí thần luận
 ---
 
 {{ page.title }}
